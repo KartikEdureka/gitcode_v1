@@ -11,6 +11,7 @@ public class GitDemo {
 		
 		else {
 			System.out.println("do not eat anything");
+			System.out.println("do not eat anything1");
 		}
 
 	} 
